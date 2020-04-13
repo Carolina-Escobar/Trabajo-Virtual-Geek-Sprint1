@@ -1,0 +1,17 @@
+.button__a {
+    padding: 1% 2%;
+    border-radius: 10px;
+    border-color: rgb(30, 31, 31);
+    color: black;
+    background-color: rgb(40, 96, 201);
+}
+.button__b {
+    padding: 1% 2%;
+    border-radius: 10px;
+    border-color: rgb(30, 31, 31);
+    color: black;
+    background-color: rgb(40, 96, 201);
+}
+.opacity {
+    opacity: 0.4;
+}
